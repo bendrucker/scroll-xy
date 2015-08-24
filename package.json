@@ -1,0 +1,32 @@
+{
+  "name": "scroll-xy",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Get the current x/y scroll position",
+  "license": "MIT",
+  "repository": "bendrucker/scroll-xy",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "scroll",
+    "x",
+    "y",
+    "position"
+  ],
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0"
+  }
+}
