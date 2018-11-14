@@ -1,4 +1,4 @@
-# scroll-xy [![Build Status](https://travis-ci.org/bendrucker/scroll-xy.svg?branch=master)](https://travis-ci.org/bendrucker/scroll-xy)
+# scroll-xy [![Build Status](https://travis-ci.org/bendrucker/scroll-xy.svg?branch=master)](https://travis-ci.org/bendrucker/scroll-xy) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/scroll-xy.svg)](https://greenkeeper.io/)
 
 > Get the current x/y scroll position and scroll maximum
 
